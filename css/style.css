@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+  
+}
+}	
+.container{
+	margin:auto;
+	padding:20px;
+	max-width:940px;
+}
+ul li{
+	list-style:none;	
+}
+.navbar_one ul li{
+	float:right;
+}	
